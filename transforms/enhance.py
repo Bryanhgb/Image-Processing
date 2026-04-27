@@ -1,0 +1,1 @@
+#TP1/TP2 : contrast stretch, gamma, égalisation
